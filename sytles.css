@@ -186,7 +186,7 @@ input, button {
     border-radius: .8rem;
     margin-bottom: 1rem;
     cursor: pointer;
-    display: none;
+    /* display: none; */
 }
 
 .overall #print_all:hover {
@@ -287,6 +287,7 @@ main {
 .task .actions .delete {
     color: var(--red);
 }
+
 
 .fa-face-surprise {
     color: var(--dark);
