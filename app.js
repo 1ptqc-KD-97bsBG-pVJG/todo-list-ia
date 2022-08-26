@@ -1,6 +1,6 @@
 /*
 
-I reused this project as an assignment intended to ensure new developers in our company were familiar with web dev. These comments are from that:
+I reused this project as an assignment intended to ensure new developers in our company were familiar with basic web dev. These comments are from that:
 
 Tasks:
 
